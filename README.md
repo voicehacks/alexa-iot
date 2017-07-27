@@ -36,4 +36,5 @@ config.IOT_THING_NAME           = "thing1";
 
 
 <hr />
+
 Back to the [Home Page](../../README.md#title)
