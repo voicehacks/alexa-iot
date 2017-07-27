@@ -37,4 +37,4 @@ config.IOT_THING_NAME           = "thing1";
 
 <hr />
 
-Back to the [Home Page](../../README.md#title)
+Back to the [Local Recommendations](https://github.com/voicehacks/setup-local-recommendations)
