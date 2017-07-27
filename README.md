@@ -16,7 +16,7 @@ Follow these three steps to build a skill that can update an IOT thing.  Step 3 
 
 1. [setup-thing](setup-thing#title)
 1. [update-shadow](update-shadow#title)
-1. [webapp-thing](webapp-thing#title)
+1. [webapp-thing](https://github.com/alexa/alexa-cookbook/tree/master/aws/Amazon-IOT/webapp-thing)
 
 
 
