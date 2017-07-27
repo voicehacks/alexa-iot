@@ -29,4 +29,5 @@ You can stop at this point and begin writing Lambda code to update this device. 
 
 
 <hr />
-Back to the [Home Page](../../README.md#title)
+
+Back to the [Home Page](https://github.com/voicehacks/alexa-iot)
