@@ -37,4 +37,4 @@ config.IOT_THING_NAME           = "thing1";
 
 <hr />
 
-Back to the [Local Recommendations](https://github.com/voicehacks/setup-local-recommendations)
+Back to the [Next step](https://github.com/voicehacks/setup-local-recommendations/blob/master/step-by-step/10-publication.md) in Local Recommendations.
